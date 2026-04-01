@@ -175,7 +175,7 @@ Every exercise in this repository follows a specific workflow:
 
 - **LinkedIn:** https://www.linkedin.com/in/viveksharma-data-analyst
 - **Email:** viveksharma.data.analyst@gmail.com
-- **Location:** Agra, India
+- **Location:** Agra, UttarPradesh, India
 
 **Open to Data Analyst roles and internship opportunities.**
 
