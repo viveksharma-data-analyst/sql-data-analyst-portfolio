@@ -173,8 +173,8 @@ Every exercise in this repository follows a specific workflow:
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/vivek-sharma](https://www.linkedin.com/in/vivek-sharma-a48322227)
-- **Email:** viveksharma.analyst@gmail.com
+- **LinkedIn:** [linkedin.com/in/viveksharma-data-analyst]
+- **Email:** viveksharma.data.analyst@gmail.com
 - **Location:** Agra, India
 
 **Open to Data Analyst roles and internship opportunities.**
