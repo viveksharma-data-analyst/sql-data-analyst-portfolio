@@ -173,7 +173,7 @@ Every exercise in this repository follows a specific workflow:
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** linkedin.com/in/viveksharma-data-analyst
+- **LinkedIn:** https://www.linkedin.com/in/viveksharma-data-analyst
 - **Email:** viveksharma.data.analyst@gmail.com
 - **Location:** Agra, India
 
