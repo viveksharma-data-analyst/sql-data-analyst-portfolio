@@ -97,7 +97,7 @@ sql-data-analyst-portfolio/
 | Day | Date | Topic | Phase | Status |
 |-----|------|-------|-------|--------|
 | 0 | Mar 30 | Environment setup | Setup | ✅ Complete |
-| 1 | Apr 02 | `SELECT`, `FROM`, `LIMIT` | Phase 1 | ⬜ |
+| 1 | Apr 02 | `SELECT`, `FROM`, `LIMIT` | Phase 1 | ✅ Complete  |
 | 2 | Apr 03 | `WHERE`, `AND`/`OR`/`NOT`, Execution order | Phase 1 | ⬜ |
 | 3 | Apr 04 | `DISTINCT`, `ORDER BY`, `COUNT`, `LIKE` | Phase 1 | ⬜ |
 | 4 | Apr 05 | `BETWEEN`, `IN`, Business translation | Phase 1 | ⬜ |
@@ -183,6 +183,6 @@ Every exercise in this repository follows a specific workflow:
 
 <div align="center">
 
-**Current Status:** 🟡 `Day 0 Complete — Sprint begins April 2, 2026`
+**Current Status:** 🟡 `Day 01 Complete — select-from-limit [April 2, 2026]`
 
 </div>
