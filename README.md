@@ -183,6 +183,6 @@ Every exercise in this repository follows a specific workflow:
 
 <div align="center">
 
-**Current Status:** 🟡 `Day 01 Complete — select-from-limit [April 2, 2026]`
+**Current Status:** 🟡 `Day 02 Complete-where-logic-operators [April 3, 2026]`
 
 </div>
