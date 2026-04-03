@@ -98,7 +98,7 @@ sql-data-analyst-portfolio/
 |-----|------|-------|-------|--------|
 | 0 | Mar 30 | Environment setup | Setup | ✅ Complete |
 | 1 | Apr 02 | `SELECT`, `FROM`, `LIMIT` | Phase 1 | ✅ Complete  |
-| 2 | Apr 03 | `WHERE`, `AND`/`OR`/`NOT`, Execution order | Phase 1 | ⬜ |
+| 2 | Apr 03 | `WHERE`, `AND`/`OR`/`NOT`, Execution order | Phase 1 | ✅ Complete |
 | 3 | Apr 04 | `DISTINCT`, `ORDER BY`, `COUNT`, `LIKE` | Phase 1 | ⬜ |
 | 4 | Apr 05 | `BETWEEN`, `IN`, Business translation | Phase 1 | ⬜ |
 | 5 | Apr 06 | 🏗️ **Project: E-Commerce Pulse** | Phase 1 | ⬜ |
